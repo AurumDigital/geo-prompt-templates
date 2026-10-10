@@ -1,0 +1,17 @@
+type,stage,prompt_template
+category,awareness,What are the best [category] companies?
+category,awareness,Which [category] providers do you recommend for [use case]?
+category,consideration,What are the top [category] options for [company size or industry]?
+category,consideration,I need a [category] solution for [use case]. What should I consider and which brands should I look at?
+problem,awareness,How do I fix [problem you solve]?
+problem,consideration,What is the best way to [goal your product helps achieve]?
+problem,consideration,What tools or services help with [problem you solve]?
+comparison,decision,[brand] vs [competitor]: which is better for [use case]?
+comparison,decision,What are the main alternatives to [competitor]?
+comparison,decision,Is [brand] or [competitor] better value for [company size]?
+brand,decision,What is [brand] and what does it do?
+brand,decision,Is [brand] a good choice for [use case]? What are the pros and cons?
+brand,decision,How much does [brand] cost?
+brand,decision,Where is [brand] based and who founded it?
+local,consideration,What are the best [category] providers in [city]?
+local,consideration,Which [category] companies serve clients in [country or state]?
